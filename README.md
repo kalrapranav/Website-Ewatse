@@ -16,5 +16,5 @@ and issues (CS 440) at San Diego State University. Our team wanted to create awa
 create a powerpoint presention, video and website for our final class presentaion
 
 The following repository constains the files for the website including HTMl, CSS and javascript files (and other supporting docs)
-* The video can be viewed [there](https://docs.google.com/presentation/d/1J00DrWdzPBjlMi_kNxAz00lq_r83K44L-1ZENmtgHKA/edit?usp=sharing)
+* The video can be viewed [there](https://drive.google.com/file/d/1Qc-R_1fLSEgq76h8up11obXfrzYLTb9r/view)  
 * The ppt can be viewed [there](https://github.com/kalrapranav/CS-440-FInal-Project/blob/master/ppt/E-Waste%E2%80%94An%20Important%20Global%20Environmental%20and%20Health%20Issue-converted.pdf)
